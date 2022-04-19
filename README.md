@@ -11,9 +11,9 @@
      <td>Game Over</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sanjyotpanure/WebDev-ProjectKart/blob/master/images/screenshot1.PNG" width=700>
+    <td><img src="https://github.com/sanjyotpanure/WebDev-ProjectKart/blob/EggCatcher/images/screenshot1.PNG" width=700>
     </td>
-    <td><img src="https://github.com/sanjyotpanure/WebDev-ProjectKart/blob/master/images/screenshot2.PNG" width=200>
+    <td><img src="https://github.com/sanjyotpanure/WebDev-ProjectKart/blob/EggCatcher/images/screenshot2.PNG" width=200>
     </td>
   </tr>
 </table>
@@ -29,7 +29,7 @@ Download the source code from the repository and run the file just as any other 
 
 ### Usage
 * Use **Left & Right Arrow Keys** to move the Bowl.
-* Each egg caries 10 points. Speed of eggs dropping increases
+* Each egg caries 10 points. Speed of eggs dropping increases with time.
 * Try to collect maximum eggs and score high.
 #### Enjoy the game!
 
